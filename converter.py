@@ -188,13 +188,14 @@ def processLine(inputHistory,limitSmallBet,limitBigBet,limitSmallBlind,limitBigB
                 outputString += playersSplit[seat] + ": shows ["
                 outputString += holeCards[seat][0:2] + " " + holeCards[seat][2:4] + "]\n"
 
-    pot = 0
-    for r in range(len(resultsSplit)):
-        result = int(resultsSplit[r])
-        if result > 0:
-            pot += result
-            outputString +=
-
+    # was working on this code
+    #pot = 0
+    #for r in range(len(resultsSplit)):
+    #    result = int(resultsSplit[r])
+    #    if result > 0:
+    #        pot += result
+    #        outputString +=
+#
     outputString += "*** SUMMARY ***\n"
 
     print outputString
