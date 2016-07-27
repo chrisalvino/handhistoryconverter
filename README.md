@@ -28,7 +28,8 @@ Follow these instructions to start modifying the code.
 6. Push changes on that branch back to github with `git push origin myBranchFeatureName` 
 7. Go to the project page, `https://github.com/chrisalvino/handhistoryconverter` and make a pull request for the pushed branch.
     1. Click on `Pull Requests` and then `New Pull Request`
-    2. Select the branch you 
+    2. Select the branch you want to merge into as `base: master` and the branch you want merge from as `compare: myBranchFeatureName`
+    3. Click `Create Pull Request`
 
 
 
