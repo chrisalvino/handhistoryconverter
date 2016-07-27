@@ -195,7 +195,8 @@ def processLine(inputHistory,limitSmallBet,limitBigBet,limitSmallBlind,limitBigB
     #    if result > 0:
     #        pot += result
     #        outputString +=
-#
+    #
+    
     outputString += "*** SUMMARY ***\n"
 
     print outputString
