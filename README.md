@@ -8,9 +8,9 @@
 
 Follow these instructions to get the code and start debugging it.
 
-1. Make sure you have a suitable installation of **git** for your operating system.
-2. Make sure you have **python** installed on your system.
-3. Optionally, install **PyCharm** for a great Python integrated development environment
+1. Make sure you have a suitable installation of **git** for your operating system. There's great **git** instructions here: `https://git-scm.com/`
+2. Make sure you have **python** installed on your system.  I used Python 2.7.10
+3. Optionally, install **PyCharm** for a great Python integrated development environment: `https://www.jetbrains.com/pycharm/`
 4. Clone the repository with the command `git clone git@github.com:chrisalvino/handhistoryconverter.git`
 5. You can run the program by executing `converter.py 3pl.HITSZ_CS_14.Hyperborean_iro.SmooCT.0.0.log AiParserOutput.txt 8 16`. 
 
@@ -27,6 +27,8 @@ Follow these instructions to start modifying the code.
 5. Commit your changes to your local repository with a comment: `git commit -m "Cleaned up some functions"`
 6. Push changes on that branch back to github with `git push origin myBranchFeatureName` 
 7. Go to the project page, `https://github.com/chrisalvino/handhistoryconverter` and make a pull request for the pushed branch.
+    1. Click on `Pull Requests` and then `New Pull Request`
+    2. Select the branch you 
 
 
 
