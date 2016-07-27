@@ -1,0 +1,43 @@
+
+PokerStars Hand #3307492647: Hold'em Fixed Limit ($8/$16.00) - 2016/06/12 15:14:14
+Table '#10782437' 6-max Seat #5 is the button
+Seat 1: PLR_3363207QP ($1,048 in chips)
+Seat 2: PLR_2818405QW ($142 in chips)
+Seat 3: PLR_8087400OZ ($520 in chips)
+Seat 4: PLR_6127435RP ($291 in chips)
+Seat 5: PLR_4000390AK ($81.50 in chips)
+Seat 6: Vahe ($465 in chips)
+Vahe: posts small blind $4
+PLR_3363207QP: posts big blind $8
+*** HOLE CARDS ***
+Dealt to Vahe [7h 5h]
+PLR_2818405QW: raises $16 to $16
+PLR_8087400OZ: folds
+PLR_6127435RP: folds
+PLR_4000390AK: folds
+Vahe: folds
+PLR_3363207QP: calls $8 
+*** FLOP *** [4d 6c Jc]
+PLR_3363207QP: checks
+PLR_2818405QW: bets $8 
+PLR_3363207QP: raises $16 to $16
+PLR_2818405QW: calls $8 
+*** TURN *** [4d 6c Jc] [2h]
+PLR_3363207QP: bets $16 
+PLR_2818405QW: calls $16 
+*** RIVER *** [4d 6c Jc 2h] [Jd]
+PLR_3363207QP: bets $16 
+PLR_2818405QW: calls $16 
+*** SHOW DOWN ***
+PLR_3363207QP: shows [6h 8c] (two pair, Jacks and Eights)
+PLR_2818405QW: Mucks [Ks Qd] (One pair)
+PLR_3363207QP collected $129 from pot
+*** SUMMARY ***
+Total pot $132 | Rake $3.00
+Board [4d 6c Jc 2h Jd]
+Seat 1: PLR_3363207QP (big blind) showed [6h 8c] and won ($129) with two pair, Jacks and Eights
+Seat 2: PLR_2818405QW mucked [Ks Qd]
+Seat 3: PLR_8087400OZ mucked
+Seat 4: PLR_6127435RP mucked
+Seat 5: PLR_4000390AK (button) mucked
+Seat 6: Vahe (small blind) mucked
